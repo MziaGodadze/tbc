@@ -1,4 +1,3 @@
--- Initialize variables
 local showWelcome = true
 local score1, score2 = 0, 0
 local timer = 30
